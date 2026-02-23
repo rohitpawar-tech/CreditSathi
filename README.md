@@ -248,6 +248,16 @@ gunicorn -w 4 -b 0.0.0.0:5000 run:app
 # 4)Reverse Proxy (Nginx):
 Configure Nginx to forward requests to Gunicorn.
 
+server {
+    listen 80;
+    server_name your-domain.com;
+
+    location / {
+        proxy_pass http://127.0.0.1:5000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
+}
 
 
 
