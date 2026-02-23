@@ -44,6 +44,10 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## 5)Containerized Deployment: 
            Optimized Docker configuration for seamless development and production deployment.
 
+## 6)RESTful API:
+           Standardized JSON endpoints designed for high compatibility with frontend clients.
+
+
 
 
 
