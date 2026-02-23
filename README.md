@@ -81,32 +81,57 @@ Gunicorn serves as the WSGI HTTP server, sitting in front of the Flask applicati
 
 
 msme-financial-platform/
+
 ├── app/
-│   ├── __init__.py          # Application factory
+
+│   ├── __init__.py   # Application factory
+
 │   ├── config.py            # Configuration settings
+
 │   ├── models/              # SQLAlchemy Models
 │   │   ├── __init__.py
+
 │   │   ├── user.py
+
 │   │   └── transaction.py
+
 │   ├── routes/              # API Endpoints
+
 │   │   ├── __init__.py
+
 │   │   ├── auth.py
+
 │   │   └── financials.py
+
 │   ├── services/            # Business Logic
+
 │   │   ├── __init__.py
+
 │   │   └── scoring.py
+
 │   └── utils/               # Helper functions
+
 │       ├── __init__.py
+
 │       └── decorators.py
+
 ├── migrations/              # Database migration scripts
+
 ├── tests/                   # Unit and Integration tests
+
 ├── .env                     # Environment variables
+
 ├── .gitignore
+
 ├── Dockerfile
+
 ├── docker-compose.yml
+
 ├── requirements.txt
+
 └── README.md
 
 ## Installation Guide
+
 
 
