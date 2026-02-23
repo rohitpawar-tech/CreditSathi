@@ -209,6 +209,8 @@ The financial health score is calculated using a weighted algorithm that evaluat
 ## Health Score=(W p​×Profitability Ratio)+(W l×Liquidity Ratio)
 
 Where:
+Profitability Ratio: Total RevenueTotal Revenue−Total Expenses - Liquidity Ratio: CurrentLiabilitiesCurrent Assets(Simplified as Cash Flow / Monthly Burn for this version)Weights(W): Default weights are set at 0.7 for Profitability and 0.3 for Liquidity.
+
 
 
 
