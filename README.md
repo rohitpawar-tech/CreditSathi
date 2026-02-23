@@ -24,5 +24,7 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## Backend Framework: Flask
 ## ORM: SQLAlchemy
 ## Database: PostgreSQL
+## Authentication: JWT (JSON Web Tokens) & Bcrypt
+
 
 
