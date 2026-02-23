@@ -52,6 +52,7 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 
 The application follows a layered architecture pattern to ensure separation of concerns and scalability:
 
+## 1)API Layer (Routes): Handles HTTP requests, input validation, and response formatting.
 
 
 
