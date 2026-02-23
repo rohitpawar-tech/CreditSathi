@@ -223,6 +223,8 @@ Moderate Health
 Critical Health
 
 ## Security Features
+# 1)Password Hashing: All user passwords are hashed using Bcrypt before storage.
+
 
 
 
