@@ -152,6 +152,14 @@ pip install --upgrade pip
 pip install -r requirements.txt
 # 4)Configure Environment Variables:
 Create a .env file in the root directory (refer to the Environment Variables section below).
+# 5)Initialize the Database:
+flask db init
+flask db migrate -m "Initial migration"
+flask db upgrade
+# 6)Run the Application:
+flask run
+
+
 
 
 
