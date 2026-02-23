@@ -263,6 +263,7 @@ server {
 # Machine Learning Integration: Predictive analytics for future revenue trends.
 # Multi-Currency Support: Handling international transactions and currency conversion.
 # Automated Reporting: PDF generation for monthly financial statements.
+# Webhooks: Integration capabilities with third-party banking APIs.
 
 
 
