@@ -158,6 +158,7 @@ flask db migrate -m "Initial migration"
 flask db upgrade
 # 6)Run the Application:
 flask run
+## The API will be available at http://localhost:5000.
 
 
 
