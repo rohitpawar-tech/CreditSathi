@@ -264,6 +264,7 @@ server {
 # Multi-Currency Support: Handling international transactions and currency conversion.
 # Automated Reporting: PDF generation for monthly financial statements.
 # Webhooks: Integration capabilities with third-party banking APIs.
+# Mobile Application: Native mobile clients for iOS and Android.
 
 
 
