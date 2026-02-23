@@ -29,6 +29,8 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## Containerization: Docker & Docker Compose
 
 ## Key Features
+## 1)Secure Authentication: 
+           JWT-based stateless authentication with Bcrypt password hashing.
 
 
 
