@@ -147,7 +147,9 @@ cd msme-financial-platform
 # 2)Create a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate
-
+# 3)Install dependencies:
+pip install --upgrade pip
+pip install -r requirements.txt
 
 
 
