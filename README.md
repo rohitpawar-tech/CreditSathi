@@ -3,18 +3,31 @@ A production-ready SaaS platform designed to empower Micro, Small, and Medium En
 
 ## Table of Contents:
 -Project Overview
+
 -Tech Stack
+
 -Key Features
+
 -Architecture Overview
+
 -Folder Structure
+
 -Installation Guide
+
 -Docker Setup
+
 -Environment Variables
+
 -API Endpoints
+
 -Financial Score Logic
+
 -Security Features
+
 -Deployment Guide
+
 -Future Enhancements
+
 -License
 
 ## Project Overview
@@ -55,6 +68,7 @@ The application follows a layered architecture pattern to ensure separation of c
 ## 1)API Layer (Routes): Handles HTTP requests, input validation, and response formatting.
 
 ## 2)Service Layer (Business Logic): Contains the core logic, including the financial scoring algorithm and transaction processing.
+
 
 
 
