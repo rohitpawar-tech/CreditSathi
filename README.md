@@ -48,6 +48,11 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
            Standardized JSON endpoints designed for high compatibility with frontend clients.
 
 
+## Architecture Overview
+
+The application follows a layered architecture pattern to ensure separation of concerns and scalability:
+
+
 
 
 
