@@ -74,6 +74,7 @@ The application follows a layered architecture pattern to ensure separation of c
 
 ## 4)Authentication Layer: Middleware to verify JWT tokens and secure protected routes.
 
+Gunicorn serves as the WSGI HTTP server, sitting in front of the Flask application to handle concurrent requests in a production environment.
 
 
 
