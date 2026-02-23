@@ -140,7 +140,11 @@ Prerequisites
 
 -pip (Python package manager)
 
-## Step-by-Step Setup
+## Step-by-Step Setup:
+# 1)Clone the repository:
+git clone https://github.com/your-org/msme-financial-platform.git
+cd msme-financial-platform
+
 
 
 
