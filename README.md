@@ -226,6 +226,8 @@ Critical Health
 # 1)Password Hashing: All user passwords are hashed using Bcrypt before storage.
 # 2)JWT Authentication: Stateless authentication with signed tokens to prevent unauthorized access.
 # 3)SQL Injection Prevention: Utilization of SQLAlchemy ORM parameterized queries to mitigate SQL injection risks.
+# 4)CORS: Configurable Cross-Origin Resource Sharing policies to control frontend access.
+
 
 
 
