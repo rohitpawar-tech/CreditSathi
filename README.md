@@ -38,6 +38,10 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## 3)Automated Scoring Engine:
            Real-time calculation of financial health scores based on weighted metrics.
 
+## 4)Data Persistence: 
+           Relational database integrity using PostgreSQL and SQLAlchemy migrations.
+
+
 
 
 
