@@ -194,6 +194,13 @@ Financial Data:
 | POST   | `/api/expenses`   | Log a new expense entry      |
 | GET    | `/api/expenses`   | Retrieve all expenses        |
 
+Analytics:
+| Method | Endpoint            | Description                       |
+|--------|---------------------|-----------------------------------|
+| GET    | `/api/score/current` | Get current financial health score |
+| GET    | `/api/report/summary` | Get financial summary report      |
+
+
 
 
 
