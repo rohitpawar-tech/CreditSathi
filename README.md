@@ -167,6 +167,9 @@ To run the application using Docker Compose (recommended for development):
 docker-compose up --build
 # 2)Access the application:
 The API will be exposed on port 5000.
+# 3)Stop containers:
+docker-compose down
+
 
 
 
