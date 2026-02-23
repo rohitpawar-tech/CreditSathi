@@ -245,6 +245,8 @@ gunicorn -w 4 -b 0.0.0.0:5000 run:app
 -w 4: Specifies the number of worker processes (adjust based on CPU cores).
 -b 0.0.0.0:5000: Binds the application to port 5000 on all network interfaces.
 
+# 4)Reverse Proxy (Nginx):
+Configure Nginx to forward requests to Gunicorn.
 
 
 
