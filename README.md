@@ -179,6 +179,14 @@ DATABASE_URL=postgresql://username:password@localhost:5432/msme_db
 JWT_SECRET_KEY=your_jwt_secret_key
 JWT_ACCESS_TOKEN_EXPIRES=3600
 
+## API Endpoints
+Authentication:
+| Method | Endpoint        | Description                   |
+|--------|-----------------|-------------------------------|
+| POST   | `/api/auth/register` | Register a new user       |
+| POST   | `/api/auth/login`    | Authenticate and receive JWT |
+
+
 
 
 
