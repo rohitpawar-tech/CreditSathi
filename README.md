@@ -54,6 +54,9 @@ The application follows a layered architecture pattern to ensure separation of c
 
 ## 1)API Layer (Routes): Handles HTTP requests, input validation, and response formatting.
 
+## 2)Service Layer (Business Logic): Contains the core logic, including the financial scoring algorithm and transaction processing.
+
+
 
 
 
