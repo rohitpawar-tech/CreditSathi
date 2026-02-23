@@ -142,7 +142,7 @@ Prerequisites
 
 ## Step-by-Step Setup:
 # 1)Clone the repository:
-git clone https://github.com/your-org/msme-financial-platform.git
+git clone https://github.com/rohitpawar-tech/CreditSathi/blob/main/README.md
 cd msme-financial-platform
 # 2)Create a virtual environment:
 python -m venv venv
@@ -150,6 +150,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate
 # 3)Install dependencies:
 pip install --upgrade pip
 pip install -r requirements.txt
+
 
 
 
