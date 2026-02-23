@@ -163,6 +163,9 @@ flask run
 ## Docker Setup:
 To run the application using Docker Compose (recommended for development):
 
+# 1)Build and run container:
+docker-compose up --build
+
 
 
 
