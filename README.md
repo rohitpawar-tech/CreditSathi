@@ -236,6 +236,10 @@ For production deployment, it is recommended to use Gunicorn behind a reverse pr
 # 1) Install Production Dependencies
 pip install gunicorn
 
+# 2)Set Production Environment
+Ensure FLASK_ENV=production is set in your environment variables.
+
+
 
 
 
