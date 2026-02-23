@@ -25,6 +25,7 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## ORM: SQLAlchemy
 ## Database: PostgreSQL
 ## Authentication: JWT (JSON Web Tokens) & Bcrypt
+## WSGI Server: Gunicorn
 
 
 
