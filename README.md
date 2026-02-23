@@ -215,6 +215,12 @@ Weights(W): Default weights are set at 0.7 for Profitability and 0.3 for Liquidi
 
 The resulting score is normalized to a scale of 0-100:
 
+# 80-100: 
+Excellent Health
+# 50-79:
+Moderate Health
+# 0-49:
+Critical Health
 
 
 
