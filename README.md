@@ -201,6 +201,7 @@ Analytics:
 | GET    | `/api/report/summary` | Get financial summary report      |
 
 
+Financial Score Logic
 
 
 
