@@ -172,6 +172,12 @@ docker-compose down
 
 ## Environment Variables
 Create a .env file with the following configuration:
+FLASK_APP=run.py
+FLASK_ENV=development
+SECRET_KEY=your_super_secret_key
+DATABASE_URL=postgresql://username:password@localhost:5432/msme_db
+JWT_SECRET_KEY=your_jwt_secret_key
+JWT_ACCESS_TOKEN_EXPIRES=3600
 
 
 
