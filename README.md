@@ -77,6 +77,8 @@ The application follows a layered architecture pattern to ensure separation of c
 Gunicorn serves as the WSGI HTTP server, sitting in front of the Flask application to handle concurrent requests in a production environment.
 
 
+## Folder Structure:
+
 
 
 
