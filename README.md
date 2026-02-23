@@ -160,6 +160,10 @@ flask db upgrade
 flask run
 ## The API will be available at http://localhost:5000.
 
+## Docker Setup:
+To run the application using Docker Compose (recommended for development):
+
+
 
 
 
