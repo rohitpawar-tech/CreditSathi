@@ -41,6 +41,10 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## 4)Data Persistence: 
            Relational database integrity using PostgreSQL and SQLAlchemy migrations.
 
+## 5)Containerized Deployment: 
+           Optimized Docker configuration for seamless development and production deployment.
+
+
 
 
 
