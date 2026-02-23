@@ -16,3 +16,6 @@ A production-ready SaaS platform designed to empower Micro, Small, and Medium En
 -Deployment Guide
 -Future Enhancements
 -License
+
+## Project Overview
+The MSME Financial Health Scoring Platform addresses the critical need for standardized financial assessment in the SME sector. By providing a secure, scalable API, the platform allows for the ingestion of transactional data and the generation of a proprietary financial health score. This serves as a foundational tool for financial institutions, investors, and business owners to evaluate fiscal stability efficiently.
