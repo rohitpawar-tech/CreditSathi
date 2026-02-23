@@ -144,6 +144,10 @@ Prerequisites
 # 1)Clone the repository:
 git clone https://github.com/your-org/msme-financial-platform.git
 cd msme-financial-platform
+# 2)Create a virtual environment:
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate
+
 
 
 
