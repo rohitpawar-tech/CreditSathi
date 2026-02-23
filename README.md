@@ -233,7 +233,8 @@ Critical Health
 ## Deployment Guide
 For production deployment, it is recommended to use Gunicorn behind a reverse proxy (Nginx).
 
-
+# 1) Install Production Dependencies
+pip install gunicorn
 
 
 
