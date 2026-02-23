@@ -32,5 +32,9 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## 1)Secure Authentication: 
            JWT-based stateless authentication with Bcrypt password hashing.
 
+## 2)Financial Data Tracking: 
+           Comprehensive CRUD operations for Sales and Expenses.
+
+
 
 
