@@ -170,6 +170,8 @@ The API will be exposed on port 5000.
 # 3)Stop containers:
 docker-compose down
 
+## Environment Variables
+Create a .env file with the following configuration:
 
 
 
