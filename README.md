@@ -239,7 +239,8 @@ pip install gunicorn
 # 2)Set Production Environment
 Ensure FLASK_ENV=production is set in your environment variables.
 
-
+# 3)Run with Gunicorn
+gunicorn -w 4 -b 0.0.0.0:5000 run:app
 
 
 
