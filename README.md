@@ -35,6 +35,10 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## 2)Financial Data Tracking: 
            Comprehensive CRUD operations for Sales and Expenses.
 
+## 3)Automated Scoring Engine:
+           Real-time calculation of financial health scores based on weighted metrics.
+
+
 
 
 
