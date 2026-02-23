@@ -150,6 +150,9 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate
 # 3)Install dependencies:
 pip install --upgrade pip
 pip install -r requirements.txt
+# 4)Configure Environment Variables:
+Create a .env file in the root directory (refer to the Environment Variables section below).
+
 
 
 
