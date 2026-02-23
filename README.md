@@ -213,6 +213,7 @@ Profitability Ratio: Total RevenueTotal Revenue−Total Expenses - Liquidity Rat
 
 Weights(W): Default weights are set at 0.7 for Profitability and 0.3 for Liquidity.
 
+The resulting score is normalized to a scale of 0-100:
 
 
 
