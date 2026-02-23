@@ -133,5 +133,13 @@ msme-financial-platform/
 
 ## Installation Guide
 
+Prerequisites
+-Python 3.9+
+
+-PostgreSQL 13+
+
+-pip (Python package manager)
+
+
 
 
