@@ -69,6 +69,8 @@ The application follows a layered architecture pattern to ensure separation of c
 
 ## 2)Service Layer (Business Logic): Contains the core logic, including the financial scoring algorithm and transaction processing.
 
+## 3)Data Access Layer (Models): Manages database interactions using SQLAlchemy ORM.
+
 
 
 
