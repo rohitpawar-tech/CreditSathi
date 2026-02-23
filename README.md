@@ -22,4 +22,6 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 
 ## Tech Stack
 ## Backend Framework: Flask
+## ORM: SQLAlchemy
+
 
