@@ -201,7 +201,9 @@ Analytics:
 | GET    | `/api/report/summary` | Get financial summary report      |
 
 
-Financial Score Logic
+Financial Score Logic:
+The financial health score is calculated using a weighted algorithm that evaluates the business's profitability and operational efficiency.
+
 
 
 
