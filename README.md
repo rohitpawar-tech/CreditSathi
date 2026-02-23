@@ -186,6 +186,15 @@ Authentication:
 | POST   | `/api/auth/register` | Register a new user       |
 | POST   | `/api/auth/login`    | Authenticate and receive JWT |
 
+Financial Data:
+| Method | Endpoint          | Description                  |
+|--------|-------------------|------------------------------|
+| POST   | `/api/sales`      | Log a new sale entry         |
+| GET    | `/api/sales`      | Retrieve all sales           |
+| POST   | `/api/expenses`   | Log a new expense entry      |
+| GET    | `/api/expenses`   | Retrieve all expenses        |
+
+
 
 
 
