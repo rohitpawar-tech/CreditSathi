@@ -204,6 +204,11 @@ Analytics:
 Financial Score Logic:
 The financial health score is calculated using a weighted algorithm that evaluates the business's profitability and operational efficiency.
 
+## Formula:
+
+## Health Score=(W p​×Profitability Ratio)+(W l×Liquidity Ratio)
+
+Where:
 
 
 
