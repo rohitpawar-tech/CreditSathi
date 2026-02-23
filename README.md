@@ -227,6 +227,7 @@ Critical Health
 # 2)JWT Authentication: Stateless authentication with signed tokens to prevent unauthorized access.
 # 3)SQL Injection Prevention: Utilization of SQLAlchemy ORM parameterized queries to mitigate SQL injection risks.
 # 4)CORS: Configurable Cross-Origin Resource Sharing policies to control frontend access.
+# 5)Input Validation: Strict data validation on API endpoints to ensure data integrity.
 
 
 
