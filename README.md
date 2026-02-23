@@ -230,6 +230,8 @@ Critical Health
 # 5)Input Validation: Strict data validation on API endpoints to ensure data integrity.
 
 
+## Deployment Guide
+For production deployment, it is recommended to use Gunicorn behind a reverse proxy (Nginx).
 
 
 
