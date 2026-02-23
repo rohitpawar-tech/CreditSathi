@@ -224,6 +224,8 @@ Critical Health
 
 ## Security Features
 # 1)Password Hashing: All user passwords are hashed using Bcrypt before storage.
+# 2)JWT Authentication: Stateless authentication with signed tokens to prevent unauthorized access.
+
 
 
 
