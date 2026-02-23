@@ -72,6 +72,7 @@ The application follows a layered architecture pattern to ensure separation of c
 ## 3)Data Access Layer (Models): Manages database interactions using SQLAlchemy ORM.
 
 
+## 4)Authentication Layer: Middleware to verify JWT tokens and secure protected routes.
 
 
 
