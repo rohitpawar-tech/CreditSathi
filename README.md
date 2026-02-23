@@ -26,6 +26,8 @@ The MSME Financial Health Scoring Platform addresses the critical need for stand
 ## Database: PostgreSQL
 ## Authentication: JWT (JSON Web Tokens) & Bcrypt
 ## WSGI Server: Gunicorn
+## Containerization: Docker & Docker Compose
+
 
 
 
